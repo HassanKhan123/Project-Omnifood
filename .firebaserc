@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "staging": "khan-whatsapp",
+    "default": "hamararamdan",
+    "omni": "omni-food-khan"
+  }
+}
